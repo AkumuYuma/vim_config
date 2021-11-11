@@ -11,3 +11,4 @@ Se sei in un ambiene UNIX vergine, con git e vim installati:
 In pratica clonando il repository stai prendendo solo il file vimrc e il plugin manager (per poter installare i plugin).
 I plugin in sé (cioè i vimscript corrispondenti) non sono caricati sul repo perchè sarebbero troppo grandi.
 
+Nota: Al momento della scrittura l'ultima versione stabile di vim è la 8.1
