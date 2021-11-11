@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/emanuele'
+let g:netrw_dirhist_3='/home/emanuele/Dropbox/Lettere'
+let g:netrw_dirhist_2='/home/emanuele/informatica/Repositories/IaLsketches/Session2/evolutionarySteering/c++'
+let g:netrw_dirhist_1='/home/emanuele/informatica/Repositories/IaLsketches/Session2/evolutionarySteering'
+let g:netrw_dirhist_0='/home/emanuele/informatica/Repositories/IaLsketches/Session2'
+let g:netrw_dirhist_9='/home/emanuele/informatica/Repositories/IaLsketches'
+let g:netrw_dirhist_8='/home/emanuele/.vim'
+let g:netrw_dirhist_7='/home/emanuele/.config/fish/functions'
+let g:netrw_dirhist_6='/home/emanuele/.config/fish'
+let g:netrw_dirhist_5='/home/emanuele/.config/fish/conf.d'
